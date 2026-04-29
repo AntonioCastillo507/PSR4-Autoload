@@ -1,0 +1,10 @@
+{
+    "name": "antoniocastillo/psr4-autoload",
+    "description": "Laboratorio PSR-4 Autoload - Desarrollo de Software VII",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
