@@ -1,7 +1,8 @@
 # 🚀 PSR-4 Autoload con Composer — Desarrollo de Software VII
 
-**Estudiante:** Antonio Agustín Castillo Pérez  
-**Grupo:** 1GS132  
+**Estudiante:** Antonio Agustín Castillo Pérez
+**Cedula:** 8-1038-2499
+**Grupo:** 1GS131  
 **Laboratorio:** Implementación de Carga Automática bajo PSR-4
 
 ---
